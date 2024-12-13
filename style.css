@@ -1,0 +1,21 @@
+p
+{
+    color:red;
+    font-size:larger;
+    font-weight:600;
+}
+
+body
+{
+    background-color: black;
+    font-family: "Dhurjati";
+}
+
+img 
+
+{
+ width: 300px;
+ border: 10px;
+ border-color:red;
+ border-style: dashed;
+}
